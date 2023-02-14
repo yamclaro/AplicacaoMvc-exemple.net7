@@ -10,6 +10,7 @@ Nova Aplicação Aplicativo Web do ASP.NET core( Model-View-Controller)
 
 Siga esse tutorial
 Teste a minha aplicaçao, espero que ajude na sua caminhada. Boa sorte!
+
     add-Migration {nome_migration sem chaves}
     update-database
     
